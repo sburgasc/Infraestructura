@@ -43,5 +43,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PuertoLN.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccesoDatos\AccesoDatos.csproj">
+      <Project>{8e644032-a760-4c0c-850a-773b49e6efbd}</Project>
+      <Name>AccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{19aaaf7f-3770-4280-b861-265b75aa85a5}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
