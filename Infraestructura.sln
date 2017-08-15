@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{8E644032-A760-4C0C-850A-773B49E6EFBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaNegocio", "LogicaNegocio\LogicaNegocio.csproj", "{0B9A3A0B-E839-48EE-ABF8-320CC7370782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{19AAAF7F-3770-4280-B861-265B75AA85A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E644032-A760-4C0C-850A-773B49E6EFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E644032-A760-4C0C-850A-773B49E6EFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E644032-A760-4C0C-850A-773B49E6EFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E644032-A760-4C0C-850A-773B49E6EFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9A3A0B-E839-48EE-ABF8-320CC7370782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9A3A0B-E839-48EE-ABF8-320CC7370782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9A3A0B-E839-48EE-ABF8-320CC7370782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9A3A0B-E839-48EE-ABF8-320CC7370782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19AAAF7F-3770-4280-B861-265B75AA85A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AAAF7F-3770-4280-B861-265B75AA85A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AAAF7F-3770-4280-B861-265B75AA85A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AAAF7F-3770-4280-B861-265B75AA85A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
